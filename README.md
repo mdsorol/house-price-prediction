@@ -1,5 +1,5 @@
 # house-price-prediction
-House Price Prediction Project\
+Project Name: House Price Prediction using Machine Learning\
 Our Team Members Are: \
 Md. Ashikur Rahman (Sorol)(42220200119)\
 Sourov Pal (42220200107)\
